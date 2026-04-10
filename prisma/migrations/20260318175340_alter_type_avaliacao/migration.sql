@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "barbers" ALTER COLUMN "avaliação" SET DATA TYPE DOUBLE PRECISION;

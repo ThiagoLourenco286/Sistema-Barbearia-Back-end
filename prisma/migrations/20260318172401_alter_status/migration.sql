@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "barbers" ALTER COLUMN "status" SET DEFAULT 'DISPONIVEL';
